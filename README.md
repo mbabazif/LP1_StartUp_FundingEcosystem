@@ -12,16 +12,6 @@ The dataset used for this analysis consists of information about Indian startups
 
 The main objective of this analysis is to gain a deeper understanding of the Indian startup ecosystem and provide insights that can be useful for entrepreneurs, investors, policymakers, and researchers. By analyzing the dataset, we aim to answer important questions such as funding trends, industry preferences, geographical concentration of startups, and the impact of various factors on startup success.
 
-## Contents
-
-This repository includes the following files and directories:
-
-- `data/`: This directory contains the dataset files used for the analysis.
-- `notebooks/`: This directory contains Jupyter notebooks with the code and detailed analysis of the Indian startup ecosystem.
-- `visualizations/`: This directory contains visualizations generated during the analysis, including charts, graphs, and plots.
-- `README.md`: This file provides an overview of the project, objectives, and contents of the repository.
-- `LICENSE`: This file contains the license information for the project.
-
 ## Analysis Process
 
 The analysis is divided into several steps, including data loading, data cleaning, exploratory data analysis (EDA), and generating insights. The Jupyter notebooks in the `notebooks/` directory provide a step-by-step walkthrough of the analysis process, along with code explanations and visualizations.
