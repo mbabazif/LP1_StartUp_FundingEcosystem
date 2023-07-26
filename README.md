@@ -33,9 +33,9 @@ To explore the analysis and findings, follow these steps:
 
 Contributions to this project are welcome! If you have any suggestions, improvements, or additional analysis ideas, feel free to open an issue or submit a pull request.
 
-## License
+## Author
 
-This project is licensed under the [Apache License](LICENSE).
+Florence Mbabazi
 
 ---
 
