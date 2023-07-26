@@ -1,7 +1,7 @@
 # Indian Startup Ecosystem Analysis
 |  | LinkedIn | PowerBI    | GitHub's Link  |
 |:--:|:--------------:|:--------------:|:--------------:|
-| 1 |  [mnist](https://www.linkedin.com/pulse/indian-startup-funding-ecosystem-in-depth-analysis-from-mbabazi)             |  [Mnist for Categorical data analyst ](https://app.powerbi.com/groups/me/reports/6228e8fa-4599-4d84-ba52-cd97157d4596/ReportSection?experience=power-bi)            | [https://](https://github.com/mbabazif/mnist)       |
+| 1 |  https://www.linkedin.com/pulse/indian-startup-funding-ecosystem-in-depth-analysis-from-mbabazi             |  https://app.powerbi.com/groups/me/reports/6228e8fa-4599-4d84-ba52-cd97157d4596/ReportSection?experience=power-bi            | https://github.com/mbabazif/mnist       |
 
 
 ## Overview
