@@ -1,12 +1,13 @@
 # Indian Startup Ecosystem Analysis
+|  | LinkedIn | PowerBI    | GitHub's Link  |
+|:--:|:--------------:|:--------------:|:--------------:|
+| 1 |  [mnist](https://www.linkedin.com/pulse/indian-startup-funding-ecosystem-in-depth-analysis-from-mbabazi)             |  [Mnist for Categorical data analyst ](https://app.powerbi.com/groups/me/reports/6228e8fa-4599-4d84-ba52-cd97157d4596/ReportSection?experience=power-bi)            | [https://](https://github.com/mbabazif/mnist)       |
+
 
 ## Overview
 
 The Indian startup ecosystem has witnessed significant growth and transformation in recent years. This repository contains an analysis of the Indian startup ecosystem data, providing valuable insights into various aspects such as funding patterns, industry preferences, geographical distribution, and more. The analysis aims to uncover trends, patterns, and key factors that contribute to the success of startups in India.
 
-|  |  | Name   | Published Article  |     Deployed App
-|:--:|:--------------:|:--------------:|:--------------:|
-| 1 |  Indian Startup Ecosystem              | [https://]([https://github.com/mbabazif/mnist](https://www.linkedin.com/pulse/indian-startup-funding-ecosystem-in-depth-analysis-from-mbabazi))       |             | [https://]([https://github.com/mbabazif/mnist](https://app.powerbi.com/groups/me/reports/6228e8fa-4599-4d84-ba52-cd97157d4596/ReportSection?experience=power-bi))       |    |
 ## Dataset
 
 The dataset used for this analysis consists of information about Indian startups, including details about their funding rounds, industries, locations, founders, and more. The dataset covers a specific time period (2019-2021) and provides a comprehensive snapshot of the Indian startup ecosystem during that period.
