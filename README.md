@@ -1,7 +1,8 @@
 # Indian Startup Ecosystem Analysis
-|  | LinkedIn | PowerBI    | GitHub's Link  |
-|:--:|:--------------:|:--------------:|:--------------:|
-| 1 |  https://www.linkedin.com/pulse/indian-startup-funding-ecosystem-in-depth-analysis-from-mbabazi             |  https://app.powerbi.com/groups/me/reports/6228e8fa-4599-4d84-ba52-cd97157d4596/ReportSection?experience=power-bi            | https://github.com/mbabazif/LP1_StartUp_FundingEcosystem
+
+ | Project's Name | Published Article  | Deployed PowerBi |
+|:--------------:|:--------------:|:--------------:|
+| LP3(Sales Predection)  |[Project Article](https://www.linkedin.com/pulse/indian-startup-funding-ecosystem-in-depth-analysis-from-mbabazi) |    [Power BI Dashboard](https://app.powerbi.com/groups/me/reports/1acbe819-d7c5-4b60-bd27-534671ddb81b/ReportSection?experience=power-bi)|
 
 ## Overview
 
